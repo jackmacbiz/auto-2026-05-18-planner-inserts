@@ -1023,15 +1023,22 @@
     },
     {
       "cluster": "fathers_day_printable",
-      "raw_score": 34.5,
+      "raw_score": 49.5,
       "mentions": 0,
-      "single_word_hits": 0,
+      "single_word_hits": 1,
       "season_boost": 2.0,
       "world_state_boost": 23,
       "competition_hits": 0,
       "deliverability": 1.0,
-      "final_score": 69.0,
+      "final_score": 99.0,
       "evidence": [
+        {
+          "sub": "EntrepreneurRideAlong",
+          "title": "I'm 20 years old. I've built 3 startups. Nobody uses any of them. Here's my honest story.",
+          "score": 50,
+          "url": "https://reddit.com/r/EntrepreneurRideAlong/comments/1teitz4/",
+          "matched_kw": "~father"
+        },
         {
           "sub": "world_state",
           "title": "trending: table",
