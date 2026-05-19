@@ -1023,29 +1023,15 @@
     },
     {
       "cluster": "fathers_day_printable",
-      "raw_score": 51.3,
+      "raw_score": 34.5,
       "mentions": 0,
-      "single_word_hits": 2,
+      "single_word_hits": 0,
       "season_boost": 2.0,
       "world_state_boost": 23,
       "competition_hits": 0,
       "deliverability": 1.0,
-      "final_score": 102.6,
+      "final_score": 69.0,
       "evidence": [
-        {
-          "sub": "Etsy",
-          "title": "Wrong kilt - second time it\u2019s still not right.",
-          "score": 37,
-          "url": "https://reddit.com/r/Etsy/comments/1tca3yw/",
-          "matched_kw": "~dad"
-        },
-        {
-          "sub": "printondemand",
-          "title": "Has anyone noticed how many \"best POD niches 2026\" \nlists just recycle the same dead niches?",
-          "score": 19,
-          "url": "https://reddit.com/r/printondemand/comments/1tdxnqa/",
-          "matched_kw": "~dad"
-        },
         {
           "sub": "world_state",
           "title": "trending: table",
